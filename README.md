@@ -1,1 +1,1 @@
-# DATA SCIENCE / Data Analyst / Business Analyst
+# Data Science / Data Analyst / Business Analyst
