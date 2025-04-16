@@ -1,0 +1,9 @@
+## Common file handling errors :-
+
+- FileNotFoundError
+- PermissionError
+- IsADirectoryError
+- ValueError
+- EOFError
+- FileExistsError
+
