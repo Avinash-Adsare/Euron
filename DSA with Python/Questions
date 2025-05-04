@@ -1,0 +1,73 @@
+# 1 
+# Find duplicates in an array
+# set method
+
+def find_duplicates(arr):
+  seen = set()
+  duplicates = []
+  for ele in arr:
+    if ele in seen:
+      duplicates.append(ele)
+    else:
+      seen.add(ele)
+  return duplicates
+
+arr = [1,2,3,2,4,5,4,7,1,51,32,32]
+
+# time conplexity - O(n)
+
+
+# 2 
+# Find missing 1 value in array
+# Approach - sum of the of range - sum of no. in array = missing value
+
+def find_missing_value(arr,n):
+  total = n*(n+1)//2   #logic
+  return total - sum(arr)
+
+arr = [1,2,4,5,6]
+find_missing_value(arr,5)
+
+
+
+# 3
+# Rotate an array
+# approach - use array slicing to achieve the rotation
+
+
+def rotate(arr,d):
+  return arr[d:] + arr[:d] #logic
+
+arr = [1,2,4,5,6,7,8,9]
+d = 3 # value is import . told that steps to rotate. If the array elements = d value then no rotation and d = 0 also.
+
+rotate(arr,d)
+
+
+
+# 4 
+# Merge 2 sorted array
+# approach - use 2 pointers to iterate through both arrays and add the smaller element to the result array.
+
+
+def merge_arrays(arr1,arr2):
+  merged = []
+  i = j = 0
+  while i < len(arr1) and j < len(arr2):
+    if arr1[i] < arr2[j]:
+      merged.append(arr1[i])
+      i += 1
+    else:
+      merged.append(arr2[j])
+      j += 1
+    
+  merged.extend(arr1[i:])
+  merged.extend(arr2[j:])
+  
+  return merged
+
+
+arr1 = [1,3,5,7]
+arr2 = [2,4,6,8]
+
+merge_arrays(arr1,arr2)
