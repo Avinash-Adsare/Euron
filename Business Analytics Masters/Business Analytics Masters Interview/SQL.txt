@@ -1,0 +1,62 @@
+RBMS  - database management system (MySQL,PostgreSQL,MSSQL,Oracle).Data stored in multiple tables
+data - facts and information
+SQL - language to connect database
+table - arrangements of rows and column
+query - command in sql
+database - container which is filled with data or information which is electronically stored in computer system
+
+Using Sql - read & write data from RDBMS,create& modify or delete the database ,analyze the data,build reports
+
+SQL Commands =>
+
+DDL - create,drop,alter,truncate
+DML -  insert,update,delete,merge
+DCL - grant,revote
+TCL - commit,rollback,savepoint
+DQL - select
+
+Execution of query is called transaction
+
+truncate - table str. is not deleted when you use truncate only remove the data
+
+drop remove the whole table data and str
+
+Constraints:= CHECK constraints allows you to control the values that can be inserted into column
+
+DML - delete remove the data from table based on certain condition
+
+SQL =>
+ 
+as - for alicing
+
+order by - order the data as asending(asc) or descending(desc). by default is asending
+
+where - filtering the data
+
+like - matching
+
+between is used for range 
+
+
+group by - group the data based on certain categories, always used with aggregation functions. execution flow =>  from - where- group by - select - distinct - order by - limit
+
+
+Having - the having clause is used with the group by to filter the grouped data.
+having comes after group by.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
