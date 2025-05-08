@@ -1,0 +1,121 @@
+## SQL Advanced
+
+JOINS =>
+
+Types of joins =
+
+1. Inner join - matching records
+inner join ke aage right table
+
+
+2.Left join
+
+
+3.Right join
+
+
+4.Cross join
+
+
+
+- Full outer join is not available in MySQL not directly available in it .
+
+
+CTE => (Common Table Expression)
+used for recursive queries and improving readability
+help us to break down to complex sql queries into much simpler format.
+it is temporary result set
+
+with keyword is used to write
+
+example - 
+
+with customers as (
+select first_name from raw_customers
+)
+select * from customers;
+
+
+coalesce -> 
+
+***
+
+Window Functions ->
+
+It is advanced topic.
+
+A Window function is a special type of function that allows you to perform calculation across a set if rows within a result set.
+window fun is generally give row level
+
+syntax - 
+
+<window function>() over (partition by column_name() 
+				order by column_name)
+
+1) Row_Number() - It is a window function that assigns a unique sequential number to each row within a position of result set.
+
+2) Rank() - that assigns rank to each row within a partition based on given order. Skip the rank if same occurance
+
+
+3) Dense Rank() - That assigns a ranking to rows within a partition based on given order.It will not skip the rank
+
+4) LAG() function - In MySQL that allows you to access the previous rows value from the result set without using self-join. Fetch the previous record. 
+
+
+***
+
+
+SQL Stored Procedure :(set of queies)
+
+stored procedure is similar to functions.
+
+" A stored procedure is a group of SQL statements that are created and stored in DBMS, allowing multiple users and programs to share and reuse the product."
+
+Advantages - reusability, parametrization , performance benefits , encapsulation
+
+
+Syntax -
+
+CREATE PROCEDURE TEST(parameter_list)
+BEGIN
+     statements;
+END:
+
+
+DELIMETER $$
+$$
+
+
+- default delimeter in MySQL is -> ;
+
+DELIMETER $$ keyword to start stored procedure
+
+CALL to calling the stored procedure
+
+
+We can declare the variable 
+
+syntax - 
+
+DECLARE variable_name datatype(size) [DEFAULT default_value]
+
+
+
+* how to assign a variable name?
+
+
+SET variable name = value
+
+Parameter in stored procedure has 3 modes - IN,Out,INOUT
+
+
+IN - It is the default mode when adding on IN parameter in SP the calling program must pass an argument to SP
+
+OUT -SP send a result
+
+
+
+
+
+
+
