@@ -1,0 +1,29 @@
+## PowerBI Interview questions
+
+what is difference between calculated field and measures.
+types of visualization.
+what is slicers and how they are different from PowerBI
+What is power query 
+why we use power query
+what is the advantages of uses of PowerBi over the Excel in reporting
+
+Advanced questions -
+import mode
+direct query
+composite mode
+calculated  funs
+incremental load
+
+how to optimize the report
+different ways to optimize the report
+use of bookmart in PowerBi
+what is KPI
+
+Scenario based questions -
+
+you need to calulate the running total  of sales. how would you do it.
+you have fact table with sales and a separate table for region . how would you create a relationship and summarize by the region.
+
+how would you handle a problem power bi is slow due to large no of volume(large data)
+
+large data volume problem?-> 1. enable incremental refresh 2. reduce unnecessary column in dataset 3. direct query 4. create calculated fields
