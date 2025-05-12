@@ -1,0 +1,38 @@
+## Excel =>
+
+Excel is used for quick data analyst or data entry
+
+Excel to power query how to open -> Data tab - click on  from table/ range button 
+
+workbook - contains multiple sheets
+
+Lookups : getting values from diff tables
+1.vlookup
+2.hlookup
+3.xlookup
+
+Q. interview question difference between lookups?
+Q . what is exact match and approx. value 
+
+
+Fetch a table in another sheet  then formula => =tablename , and fetch particular column then write [columnname] if front of table name
+
+
+Vlookup(vertical lookup) -> =VLOOKUP(lookup_value, table_array, col_index_num,[range_lookup]
+
+condition for vlookup -  lookup value is always at left side of table
+
+
+HLOOKUP (horizontal lookup) - fetch values horizonatly
+
+XLOOKUP - contains multiple functionalities
+
+index - it return value of cell
+
+match - it return position of value / postion of record
+
+data validation ? It is very important
+
+pivot table - Go to inset tab - click on PivotTable
+- In pivotable drag & drop 
+- in excel pivottvable is exactly like PowerBi
