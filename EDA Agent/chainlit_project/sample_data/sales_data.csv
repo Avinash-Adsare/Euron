@@ -1,0 +1,97 @@
+Month,Year,Product,Region,Revenue,Units,CAC,CustomerCount,ChurnRate
+Jan,2024,Enterprise Suite,North America,1580000,32,48.25,152,5.2
+Jan,2024,SMB Solutions,North America,1120000,224,44.50,210,6.8
+Jan,2024,Consumer Apps,North America,845000,9400,38.75,9250,7.5
+Jan,2024,Professional Services,North America,425000,85,52.30,85,4.1
+Jan,2024,Enterprise Suite,Europe,820000,16,51.75,78,4.8
+Jan,2024,SMB Solutions,Europe,650000,130,46.80,125,6.5
+Jan,2024,Consumer Apps,Europe,485000,5400,40.25,5300,7.2
+Jan,2024,Professional Services,Europe,235000,47,55.40,47,3.9
+Jan,2024,Enterprise Suite,Asia Pacific,480000,10,54.20,45,5.5
+Jan,2024,SMB Solutions,Asia Pacific,375000,75,48.90,72,7.1
+Jan,2024,Consumer Apps,Asia Pacific,290000,3200,42.60,3150,8.1
+Jan,2024,Professional Services,Asia Pacific,145000,29,58.75,29,4.2
+Jan,2024,Enterprise Suite,Rest of World,410000,8,56.80,38,6.2
+Jan,2024,SMB Solutions,Rest of World,320000,64,51.25,61,7.8
+Jan,2024,Consumer Apps,Rest of World,245000,2700,45.40,2650,8.9
+Jan,2024,Professional Services,Rest of World,125000,25,62.50,25,4.6
+Feb,2024,Enterprise Suite,North America,1625000,33,47.80,158,5.1
+Feb,2024,SMB Solutions,North America,1140000,228,44.10,215,6.7
+Feb,2024,Consumer Apps,North America,865000,9600,38.40,9400,7.4
+Feb,2024,Professional Services,North America,430000,86,52.10,86,4.0
+Feb,2024,Enterprise Suite,Europe,840000,17,51.20,81,4.7
+Feb,2024,SMB Solutions,Europe,665000,133,46.50,128,6.4
+Feb,2024,Consumer Apps,Europe,495000,5500,39.90,5400,7.1
+Feb,2024,Professional Services,Europe,240000,48,55.20,48,3.8
+Feb,2024,Enterprise Suite,Asia Pacific,495000,10,53.90,47,5.4
+Feb,2024,SMB Solutions,Asia Pacific,385000,77,48.60,74,7.0
+Feb,2024,Consumer Apps,Asia Pacific,300000,3300,42.30,3200,8.0
+Feb,2024,Professional Services,Asia Pacific,150000,30,58.50,30,4.1
+Feb,2024,Enterprise Suite,Rest of World,420000,8,56.40,39,6.1
+Feb,2024,SMB Solutions,Rest of World,330000,66,50.90,63,7.7
+Feb,2024,Consumer Apps,Rest of World,250000,2780,45.10,2700,8.8
+Feb,2024,Professional Services,Rest of World,130000,26,62.20,26,4.5
+Mar,2024,Enterprise Suite,North America,1660000,34,47.20,165,5.0
+Mar,2024,SMB Solutions,North America,1175000,235,43.70,222,6.6
+Mar,2024,Consumer Apps,North America,885000,9850,38.10,9600,7.3
+Mar,2024,Professional Services,North America,440000,88,51.80,88,3.9
+Mar,2024,Enterprise Suite,Europe,865000,17,50.80,84,4.6
+Mar,2024,SMB Solutions,Europe,680000,136,46.20,132,6.3
+Mar,2024,Consumer Apps,Europe,510000,5650,39.60,5550,7.0
+Mar,2024,Professional Services,Europe,245000,49,54.90,49,3.7
+Mar,2024,Enterprise Suite,Asia Pacific,515000,10,53.50,49,5.3
+Mar,2024,SMB Solutions,Asia Pacific,395000,79,48.20,76,6.9
+Mar,2024,Consumer Apps,Asia Pacific,310000,3420,42.00,3300,7.9
+Mar,2024,Professional Services,Asia Pacific,155000,31,58.20,31,4.0
+Mar,2024,Enterprise Suite,Rest of World,435000,9,56.10,41,6.0
+Mar,2024,SMB Solutions,Rest of World,340000,68,50.60,65,7.6
+Mar,2024,Consumer Apps,Rest of World,260000,2840,44.80,2780,8.7
+Mar,2024,Professional Services,Rest of World,135000,27,61.90,27,4.4
+Apr,2024,Enterprise Suite,North America,1710000,35,46.60,172,4.9
+Apr,2024,SMB Solutions,North America,1205000,241,43.20,229,6.5
+Apr,2024,Consumer Apps,North America,910000,10100,37.80,9850,7.2
+Apr,2024,Professional Services,North America,450000,90,51.40,90,3.8
+Apr,2024,Enterprise Suite,Europe,895000,18,50.30,88,4.5
+Apr,2024,SMB Solutions,Europe,700000,140,45.80,136,6.2
+Apr,2024,Consumer Apps,Europe,525000,5830,39.20,5700,6.9
+Apr,2024,Professional Services,Europe,255000,51,54.60,51,3.6
+Apr,2024,Enterprise Suite,Asia Pacific,535000,11,53.10,51,5.2
+Apr,2024,SMB Solutions,Asia Pacific,410000,82,47.80,78,6.8
+Apr,2024,Consumer Apps,Asia Pacific,325000,3550,41.70,3450,7.8
+Apr,2024,Professional Services,Asia Pacific,160000,32,57.90,32,3.9
+Apr,2024,Enterprise Suite,Rest of World,450000,9,55.80,42,5.9
+Apr,2024,SMB Solutions,Rest of World,355000,71,50.20,67,7.5
+Apr,2024,Consumer Apps,Rest of World,270000,2920,44.40,2870,8.6
+Apr,2024,Professional Services,Rest of World,140000,28,61.50,28,4.3
+May,2024,Enterprise Suite,North America,1780000,36,45.90,180,4.8
+May,2024,SMB Solutions,North America,1245000,249,42.70,238,6.4
+May,2024,Consumer Apps,North America,945000,10500,37.40,10200,7.1
+May,2024,Professional Services,North America,465000,93,51.10,93,3.7
+May,2024,Enterprise Suite,Europe,930000,19,49.80,92,4.4
+May,2024,SMB Solutions,Europe,725000,145,45.30,142,6.1
+May,2024,Consumer Apps,Europe,545000,6050,38.90,5900,6.8
+May,2024,Professional Services,Europe,265000,53,54.20,53,3.5
+May,2024,Enterprise Suite,Asia Pacific,555000,11,52.70,53,5.1
+May,2024,SMB Solutions,Asia Pacific,425000,85,47.40,81,6.7
+May,2024,Consumer Apps,Asia Pacific,340000,3700,41.40,3600,7.7
+May,2024,Professional Services,Asia Pacific,165000,33,57.60,33,3.8
+May,2024,Enterprise Suite,Rest of World,465000,9,55.40,44,5.8
+May,2024,SMB Solutions,Rest of World,365000,73,49.80,69,7.4
+May,2024,Consumer Apps,Rest of World,280000,3050,44.10,2980,8.5
+May,2024,Professional Services,Rest of World,145000,29,61.20,29,4.2
+Jun,2024,Enterprise Suite,North America,1830000,37,45.20,187,4.7
+Jun,2024,SMB Solutions,North America,1280000,256,42.20,245,6.3
+Jun,2024,Consumer Apps,North America,970000,10800,37.10,10500,7.0
+Jun,2024,Professional Services,North America,475000,95,50.80,95,3.6
+Jun,2024,Enterprise Suite,Europe,965000,19,49.30,96,4.3
+Jun,2024,SMB Solutions,Europe,745000,149,44.90,146,6.0
+Jun,2024,Consumer Apps,Europe,560000,6220,38.50,6100,6.7
+Jun,2024,Professional Services,Europe,270000,54,53.90,54,3.4
+Jun,2024,Enterprise Suite,Asia Pacific,575000,12,52.20,55,5.0
+Jun,2024,SMB Solutions,Asia Pacific,440000,88,47.00,84,6.6
+Jun,2024,Consumer Apps,Asia Pacific,350000,3850,41.10,3750,7.6
+Jun,2024,Professional Services,Asia Pacific,170000,34,57.20,34,3.7
+Jun,2024,Enterprise Suite,Rest of World,485000,10,55.00,46,5.7
+Jun,2024,SMB Solutions,Rest of World,380000,76,49.40,72,7.3
+Jun,2024,Consumer Apps,Rest of World,290000,3150,43.80,3080,8.4
+Jun,2024,Professional Services,Rest of World,150000,30,60.80,30,4.1
