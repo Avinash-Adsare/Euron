@@ -1,0 +1,31 @@
+ID,Age,Income (₹k),Gender,Married,Dependents,CreditScore,Education,Self_Employed,LoanAmount,Property_Area,Loan_Status
+1,27,47,Male,No,0,682,Not Grad,No,203,Rural,Rejected
+2,27,90,Male,Yes,3,746,Graduate,No,127,Urban,Rejected
+3,52,43,Male,Yes,1,556,Graduate,No,80,Urban,Rejected
+4,41,63,Female,Yes,2,734,Graduate,Yes,121,Rural,Rejected
+5,22,34,Male,No,0,712,Not Grad,No,83,Rural,Rejected
+6,26,32,Female,No,0,708,Not Grad,Yes,68,Rural,Rejected
+7,51,35,Male,No,1,638,Graduate,Yes,248,Urban,Rejected
+8,55,46,Male,No,2,643,Graduate,No,220,Rural,Rejected
+9,30,32,Female,No,3,776,Not Grad,No,267,Semiurban,Rejected
+10,31,99,Male,No,0,723,Not Grad,No,244,Semiurban,Approved
+11,46,76,Female,Yes,0,567,Not Grad,No,72,Rural,Approved
+12,32,78,Female,No,2,764,Graduate,No,267,Rural,Rejected
+13,34,39,Male,No,1,705,Graduate,Yes,217,Rural,Approved
+14,40,28,Female,Yes,0,758,Graduate,No,172,Semiurban,Rejected
+15,22,36,Female,No,3,740,Graduate,No,211,Semiurban,Rejected
+16,34,48,Male,No,2,703,Not Grad,Yes,112,Urban,Approved
+17,39,78,Male,No,3,744,Not Grad,Yes,122,Rural,Rejected
+18,53,39,Male,No,1,764,Graduate,No,191,Semiurban,Approved
+19,29,74,Female,Yes,0,718,Not Grad,Yes,101,Urban,Rejected
+20,31,27,Female,Yes,2,697,Not Grad,Yes,257,Rural,Approved
+21,52,57,Male,No,3,614,Graduate,No,288,Rural,Rejected
+22,52,54,Male,Yes,3,579,Graduate,No,188,Rural,Approved
+23,34,52,Male,No,1,697,Not Grad,No,89,Rural,Rejected
+24,51,29,Female,Yes,3,789,Graduate,No,124,Semiurban,Approved
+25,37,96,Male,No,0,660,Graduate,No,240,Rural,Approved
+26,35,43,Female,Yes,1,791,Graduate,No,249,Semiurban,Rejected
+27,52,98,Male,Yes,2,567,Graduate,No,79,Urban,Approved
+28,36,55,Male,Yes,0,600,Graduate,Yes,138,Urban,Approved
+29,32,65,Female,Yes,2,593,Graduate,No,97,Urban,Rejected
+30,47,45,Female,Yes,0,634,Not Grad,Yes,159,Semiurban,Rejected

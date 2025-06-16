@@ -1,0 +1,26 @@
+ID,Age,Gender,Annual Income (₹k),Spending Score (1-100),OnlinePurchaseFreq,In-StoreVisits,DaysSinceLastPurchase,PreferredCategory,MembershipTier
+1,24,Female,59,91,9,1,39,Groceries,Silver
+2,28,Female,59,81,1,23,52,Groceries,Silver
+3,65,Female,71,56,19,3,53,Electronics,Silver
+4,63,Male,70,15,10,17,52,Books,Gold
+5,56,Male,83,7,14,6,7,Beauty,Gold
+6,24,Male,22,76,4,24,29,Electronics,Silver
+7,37,Male,105,54,4,12,27,Groceries,Gold
+8,18,Male,113,51,10,6,59,Groceries,Platinum
+9,31,Female,74,100,11,10,56,Books,Platinum
+10,18,Male,38,76,14,13,52,Beauty,Platinum
+11,55,Female,111,36,10,9,8,Fashion,Silver
+12,51,Male,32,79,5,24,52,Electronics,Gold
+13,65,Female,28,22,4,14,60,Groceries,Platinum
+14,63,Female,30,78,6,21,7,Groceries,Platinum
+15,65,Male,48,36,12,19,46,Books,Silver
+16,60,Female,74,52,9,25,45,Electronics,Platinum
+17,60,Male,111,30,3,13,13,Beauty,Gold
+18,22,Female,83,4,9,11,56,Beauty,Gold
+19,64,Female,120,20,12,6,59,Groceries,Gold
+20,48,Female,78,71,17,6,12,Fashion,Gold
+21,57,Female,98,89,10,17,46,Fashion,Silver
+22,35,Female,50,62,13,12,57,Beauty,Silver
+23,34,Male,40,40,16,8,44,Beauty,Silver
+24,46,Male,24,85,20,13,8,Books,Gold
+25,24,Male,27,19,10,2,23,Fashion,Silver
