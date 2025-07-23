@@ -1,0 +1,14 @@
+My name is sudhanshu
+I am debugging 
+My name is sudhanshu
+I am debugging my code
+My name is sudhanshu
+2025-07-22 18:15:14,555 - mytestlogger - INFO - My name is sudhanshu
+I am debugging my code
+2025-07-22 18:15:14,561 - mytestlogger - DEBUG - I am debugging my code
+value of a is 3 and b is 4
+2025-07-22 18:20:04,931 - mytestlogger - INFO - value of a is 3 and b is 4
+we are doing a calculation operation by doing a addition of3and 4
+2025-07-22 18:20:04,942 - mytestlogger - INFO - we are doing a calculation operation by doing a addition of3and 4
+it will return 3 + 4
+2025-07-22 18:20:04,952 - mytestlogger - INFO - it will return 3 + 4

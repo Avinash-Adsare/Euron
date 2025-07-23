@@ -1,0 +1,18 @@
+WARNING:root:this is a warning msg
+ERROR:root:this is a error msg
+CRITICAL:root:this is a critical msg
+WARNING:root:this is a warning msg
+ERROR:root:this is a error msg
+CRITICAL:root:this is a critical msg
+INFO:mytestlogger:My name is sudhanshu
+INFO:mytestlogger:My name is sudhanshu
+DEBUG:mytestlogger:I am debugging 
+INFO:mytestlogger:My name is sudhanshu
+DEBUG:mytestlogger:I am debugging 
+INFO:mytestlogger:My name is sudhanshu
+DEBUG:mytestlogger:I am debugging my code
+INFO:mytestlogger:My name is sudhanshu
+DEBUG:mytestlogger:I am debugging my code
+INFO:mytestlogger:value of a is 3 and b is 4
+INFO:mytestlogger:we are doing a calculation operation by doing a addition of3and 4
+INFO:mytestlogger:it will return 3 + 4
